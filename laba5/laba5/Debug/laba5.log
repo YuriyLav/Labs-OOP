@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\Документы\2 сем\Ооп\laba5\laba5\Source.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Документы\2 сем\Ооп\laba5\laba5\Source.cpp(10,41): warning C4244: =: преобразование "double" в "X", возможна потеря данных
+          with
+          [
+              X=int
+          ]
+D:\Документы\2 сем\Ооп\laba5\laba5\Source.cpp(74): message : выполняется компиляция ссылки на экземпляр шаблон функции "void createArray<int>(X *&,const int)"
+          with
+          [
+              X=int
+          ]
+  laba5.vcxproj -> D:\Документы\2 сем\Ооп\laba5\Debug\laba5.exe

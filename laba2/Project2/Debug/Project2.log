@@ -1,0 +1,11 @@
+﻿  fio.cpp
+  prepod.cpp
+C:\Users\Документы\2 сем\Ооп\Project2\Project2\prepod.cpp(86,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Документы\2 сем\Ооп\Project2\Project2\prepod.cpp(97,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Документы\2 сем\Ооп\Project2\Project2\prepod.cpp(120,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Документы\2 сем\Ооп\Project2\Project2\prepod.cpp(122,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Документы\2 сем\Ооп\Project2\Project2\prepod.cpp(125,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+C:\Users\Документы\2 сем\Ооп\Project2\Project2\Source.cpp(14,8): warning C4101: f: неиспользованная локальная переменная
+  Создание кода...
+  Project2.vcxproj -> C:\Users\Документы\2 сем\Ооп\Project2\Debug\Project2.exe

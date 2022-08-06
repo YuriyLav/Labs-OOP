@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\yurii\Documents\Huawei\2 сем\Ооп\laba1\Project1\Source.cpp(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yurii\Documents\Huawei\2 сем\Ооп\laba1\Project1\Source.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yurii\Documents\Huawei\2 сем\Ооп\laba1\Project1\Source.cpp(60,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yurii\Documents\Huawei\2 сем\Ооп\laba1\Project1\Source.cpp(165,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\yurii\Documents\Huawei\2 сем\Ооп\laba1\Project1\Source.cpp(176,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project1.vcxproj -> C:\Users\yurii\Documents\Huawei\2 сем\Ооп\laba1\Debug\Project1.exe
